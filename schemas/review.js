@@ -8,11 +8,7 @@ export default {
       title: "Review Description",
       type: "string",
     },
-    // {
-    //   name: "traveller",
-    //   title: "Traveller",
-    //   type: "traveller",
-    // },
+
     {
       name: "rating",
       title: "Rating",
